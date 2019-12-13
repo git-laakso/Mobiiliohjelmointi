@@ -1,0 +1,9 @@
+Datan tuonti palvelimelta oli mielenkiintoista ja hauskaa puuhaa. Datan muunto oli myöskin mukavaa esim objektista stringiin ja kesti hieman keksiä tallentaa
+parsittu string näkymättömään TV kenttään vertailua varten. Pyörittelin pitkän aikaan eri muunnoksia jsonista, mutta en löytänyt sopivaa tapaa vertailuun.
+
+Extend, Super, Return ja inpustream tyypit osuivat silmään, johon tulen paneutumaan myöhemmin lisää uudessa projektissa.
+
+Ohjelmoinnista ammatti kursseilla on käytetty frameworkkeja tuon front endin tekoon, niin toteutin tämän perinteisellä html ilman css tiedostoa harjoituksen takia.
+Protoilu oli hauskaa ja vuokaavio jäi hieman hassuksi omasta mielestä, mutta ajaa asiansa. Pienellä harjoittelulla varmasti varmasti mukautuu asiallisemmaksi.
+
+Hauska projekti ja tällä varmistin, että fullstack voisi olla meikäläisen juttu :)
