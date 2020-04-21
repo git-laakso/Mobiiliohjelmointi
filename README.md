@@ -5,6 +5,7 @@
 ![uml](https://user-images.githubusercontent.com/52996898/71076063-c22c2600-218d-11ea-8211-03a89e5c2555.PNG)
 ## Lopputulos
 ![res](https://user-images.githubusercontent.com/52996898/71076065-c35d5300-218d-11ea-9903-5a009e023865.PNG)
+![Android](https://user-images.githubusercontent.com/52996898/79860002-97bbd500-83da-11ea-8400-c06a975a0001.PNG)
 ## Käyttöönotto
 <b>Palvelin:<b><br>
 <p>Avaa Mobiiliohjelmointi-master kansion sisältä "Express.js -server" jollakin koodieditorilla ja kirjoita "node app.js" komentoriville. Palvelin on nyt toiminnassa. Tarvitset <a href="https://nodejs.org/en/">Noden</a> myös käynnistykseen <br><p>
